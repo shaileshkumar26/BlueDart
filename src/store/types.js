@@ -1,0 +1,20 @@
+export const PRODUCTS_LOADING = "PRODUCTS_LOADING";
+export const PRODUCTS_SUCCESS = "PRODUCTS_SUCCESS";
+export const PRODUCTS_ERROR = "PRODUCTS_ERROR";
+export const CATEGORIES_SUCCESS = "CATEGORIES_SUCCESS";
+
+export const SET_CATEGORY = "SET_CATEGORY";
+export const SET_SEARCH = "SET_SEARCH";
+export const TOGGLE_SEARCHBAR = "TOGGLE_SEARCHBAR";
+
+export const CART_ADD = "CART_ADD";
+export const CART_REMOVE = "CART_REMOVE";
+export const CART_INC = "CART_INC";
+export const CART_DEC = "CART_DEC";
+export const CART_CLEAR = "CART_CLEAR";
+export const CART_HYDRATE = "CART_HYDRATE";
+
+export const WISHLIST_ADD = "WISHLIST_ADD";
+export const WISHLIST_REMOVE = "WISHLIST_REMOVE";
+export const WISHLIST_CLEAR = "WISHLIST_CLEAR";
+export const WISHLIST_HYDRATE = "WISHLIST_HYDRATE";
